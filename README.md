@@ -80,5 +80,6 @@ The Kaggle dataset contains statistics on daily popular YouTube videos over seve
 The YouTube Analysis Project successfully ingested, transformed, and analyzed YouTube video data using AWS services. The project established a scalable ETL system and a centralized data lake, enabling comprehensive analysis and reporting through an interactive dashboard. This setup allows for continuous monitoring and insights into YouTube video trends and metrics.
 
 ## 📸 Screenshots
-![architecture](https://github.com/user-attachments/assets/c37d7a57-5640-4e48-8dda-aa3fa11516cb)
+![architecture](https://github.com/user-attachments/assets/1a986834-4f0d-436b-a9e8-67bec339e6c7)
+
 
